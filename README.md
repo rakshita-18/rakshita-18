@@ -1,28 +1,58 @@
-Hi, I'm Rakshita Shirahatti  
+Hi 👋, I'm Rakshita Shirahatti
 
-Final Year Computer Science Engineering Student  
-Java Full Stack Learner | Core Java | Spring Boot | SQL | HTML | CSS | JavaScript  
-Passionate about building real-world applications,
-Actively looking for Internship / Fresher Software Developer roles  
+🎓 Computer Science Engineering Graduate
 
+💻 Aspiring Java Full Stack Developer
 
-Technical Skills
+🚀 Passionate about building real-world applications and continuously improving my development skills.
 
-- Backend: Java, Spring Boot  
-- Frontend: HTML, CSS, JavaScript  
-- Database: MySQL  
-- Programming: Java, C, Python (basic)  
-- Tools: Git, GitHub, VS Code, Postman  
+🌱 Currently learning **Spring Boot, REST APIs, and Full Stack Development**.
 
-Projects
-Currently Learning
+💼 Open to **Software Developer, Java Developer, and Entry-Level Opportunities**.
 
-- Advanced Spring Boot  
-- REST APIs  
-- Frontend Integration  
-- Interview Preparation  
+🛠️ Technical Skills
 
----
+**Backend**
 
-Contact Me
-Email: rakshitashirahatti1804@gmail.com
+* Java
+* JDBC
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+
+**Database**
+
+* MySQL
+* SQL
+
+**Programming Languages**
+
+* Java
+* C
+* Python (Basic)
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Eclipse IDE
+
+## 📚 Currently Learning
+
+* Spring Boot
+* REST APIs
+* Frontend Integration
+* Data Structures & Algorithms (Java)
+* SQL Optimization
+* Interview Preparation
+
+🎯 Career Goal
+
+To build scalable and efficient software solutions while continuously learning and growing as a Java Backend/Full Stack Developer.
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
